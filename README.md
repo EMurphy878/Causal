@@ -8,7 +8,7 @@ Compilation of causal inference evaluation analysis examples in R including
 * Regression Discontinuity
 
 Makes use of following packages in R
-*  ggplot
+*  ggplot2
 *  tidyverse
 *  sem (structural equation modeling)
   
